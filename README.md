@@ -6,20 +6,20 @@
 
 <p>:rocket: Currently, I'm trying to master the technologies below:</p>
 <span>
- <img height="128px" src="./icons/javascript.svg" alt="JavaScript"/>
- <img height="128px" src="./icons/typescript.svg" alt="TypeScript"/>
- <img height="128px" src="./icons/nodejs.svg" alt="Node"/>
- <img height="128px" src="./icons/html.svg" alt="HTML"/>
- <img height="128px" src="./icons/css3.svg" alt="CSS"/>
- <img height="128px" src="./icons/react.svg" alt="React"/>x
- <img height="128px" src="./icons/nextjs.svg" alt="NextJS"/>
- <img height="128px" src="./icons/graphql.svg" alt="GraphQL"/>
+ <img height="64px" src="./icons/javascript.svg" alt="JavaScript"/>
+ <img height="64px" src="./icons/typescript.svg" alt="TypeScript"/>
+ <img height="64px" src="./icons/nodejs.svg" alt="Node"/>
+ <img height="64px" src="./icons/html.svg" alt="HTML"/>
+ <img height="64px" src="./icons/css3.svg" alt="CSS"/>
+ <img height="64px" src="./icons/react.svg" alt="React"/>
+ <img height="64px" src="./icons/nextjs.svg" alt="NextJS"/>
+ <img height="64px" src="./icons/graphql.svg" alt="GraphQL"/>
 </span>
 
 
 <p>🌱 I’m starting to learn learning</p>
 <span>
- Kotlin
+  <img height="64px" src="./icons/kotlin.svg" alt="Kotlin"/>    
 </span>
 
 
