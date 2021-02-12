@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <p>My name is Víctor Parente. I'm constantly studying to become a better developer everyday.</p>
-<p>:books: I'm a Computter Engineering student.</p>
+<p>:books: I'm a Computer Engineering student.</p>
 
 
-<p>:rocket: Currently I'm trying to master the technologies below:</p>
+<p>:rocket: Currently, I'm trying to master the technologies below:</p>
 <span>
  JS
  TS
@@ -25,7 +25,7 @@
 
 <p>I'm a Brazilian Portuguese native speaker</p>
 <p>:uk: My English level is advanced</p>
-<p>:jp: I'm an newbie Japanese student</p>
+<p>:jp: I'm a newbie Japanese student</p>
 
 
 <p>:chart_with_upwards_trend: My GitHub stats:</p>
