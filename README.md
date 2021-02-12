@@ -7,10 +7,10 @@ My name is Víctor Parente. I'm constantly studying to become a better developer
 Here you'll find some of the technologies below:
 
 
-:chart_with_upwards_trend: My GitHub stats:
+<p>:chart_with_upwards_trend: My GitHub stats:</p>
 <a href="https://github.com/parvic">
- <img height="140px" src="https://github-readme-stats.vercel.app/api?username=parvic&show_icons=true&include_all_commits=true&theme=tokyonight" />
- <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvic&layout=compact&theme=tokyonight" />
+ <img height="150px" src="https://github-readme-stats.vercel.app/api?username=parvic&show_icons=true&include_all_commits=true&theme=tokyonight" />
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvic&layout=compact&theme=tokyonight" />
 </a>
 
 
