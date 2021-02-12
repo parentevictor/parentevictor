@@ -3,15 +3,12 @@
 <p>My name is Víctor Parente. I'm constantly studying to become a better developer everyday.</p>
 <p>:books: I'm a Computter Engineering student.</p>
 
-<p>I'm a Brazilian Portuguese native speaker</p>
-<p>My English level is advanced</p>
-<p>I'm an newbie Japanese student</p>
 
-
-
-<p>Here you'll find some of the technologies below:</p>
+<p>:rocket: Currently I'm trying to master the technologies below:</p>
 <span>
  JS
+ TS
+ Node
  HTML
  CSS
  React
@@ -24,6 +21,11 @@
 <span>
  Kotlin
 </span>
+
+
+<p>I'm a Brazilian Portuguese native speaker</p>
+<p>:uk: My English level is advanced</p>
+<p>:jp: I'm an newbie Japanese student</p>
 
 
 <p>:chart_with_upwards_trend: My GitHub stats:</p>
