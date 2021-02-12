@@ -4,7 +4,8 @@
 <p>:books: I'm a Computer Engineering student.</p>
 
 
-<p>:rocket: Currently, I'm trying to master the technologies below:</p>
+## :rocket: Currently, I'm trying to master the technologies below:
+
 <span>
  <img height="64px" src="./icons/javascript.svg" alt="JavaScript"/>
  <img height="64px" src="./icons/typescript.svg" alt="TypeScript"/>
@@ -17,31 +18,32 @@
 </span>
 
 
-<p>🌱 I’m starting to learn learning</p>
+## <p>🌱 I’m starting to learn learning</p>
 <span>
   <img height="64px" src="./icons/kotlin.svg" alt="Kotlin"/>    
 </span>
 
 
-<p>I'm a Brazilian Portuguese native speaker</p>
-<p>:uk: My English level is advanced</p>
-<p>:jp: I'm a newbie Japanese student</p>
+## I'm a Brazilian Portuguese native speaker
+:uk: My English level is advanced
+:jp: I'm a newbie Japanese student
 
 
-<p>:chart_with_upwards_trend: My GitHub stats:</p>
+## :chart_with_upwards_trend: My GitHub stats:
 <a href="https://github.com/parvic">
  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=parvic&show_icons=true&include_all_commits=true&theme=tokyonight" />
  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvic&layout=compact&theme=tokyonight" />
 </a>
 
-<p>📫 How to reach me:</p>
+
+## 📫 How to reach me:
 <span>
  Linkedin
  Instagram
  Twitter
 </span>
 
-<p>So far, we had:</p>
+## So far, we had:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=parvic.parvic)
 
