@@ -18,7 +18,7 @@
 </span>
 
 
-## <p>🌱 I’m starting to learn learning</p>
+## 🌱 I’m starting to learn learning
 <span>
   <img height="64px" src="./icons/kotlin.svg" alt="Kotlin"/>    
 </span>
