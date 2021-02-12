@@ -6,14 +6,14 @@
 
 <p>:rocket: Currently, I'm trying to master the technologies below:</p>
 <span>
- JS
- TS
- Node
- HTML
- CSS
- React
- NextJS
- GraphQL
+ <img height="128px" src="./icons/javascript.svg" alt="JavaScript"/>
+ <img height="128px" src="./icons/typescript.svg" alt="TypeScript"/>
+ <img height="128px" src="./icons/nodejs.svg" alt="Node"/>
+ <img height="128px" src="./icons/html.svg" alt="HTML"/>
+ <img height="128px" src="./icons/css3.svg" alt="CSS"/>
+ <img height="128px" src="./icons/react.svg" alt="React"/>x
+ <img height="128px" src="./icons/nextjs.svg" alt="NextJS"/>
+ <img height="128px" src="./icons/graphql.svg" alt="GraphQL"/>
 </span>
 
 
