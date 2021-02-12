@@ -1,10 +1,29 @@
 ## Hi there 👋
 
-My name is Víctor Parente. I'm constantly studying to become a better developer everyday.
-:books: I'm a Computter Engineering student.
+<p>My name is Víctor Parente. I'm constantly studying to become a better developer everyday.</p>
+<p>:books: I'm a Computter Engineering student.</p>
+
+<p>I'm a Brazilian Portuguese native speaker</p>
+<p>My English level is advanced</p>
+<p>I'm an newbie Japanese student</p>
 
 
-Here you'll find some of the technologies below:
+
+<p>Here you'll find some of the technologies below:</p>
+<span>
+ JS
+ HTML
+ CSS
+ React
+ NextJS
+ GraphQL
+</span>
+
+
+<p>🌱 I’m starting to learn learning</p>
+<span>
+ Kotlin
+</span>
 
 
 <p>:chart_with_upwards_trend: My GitHub stats:</p>
@@ -13,10 +32,14 @@ Here you'll find some of the technologies below:
  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvic&layout=compact&theme=tokyonight" />
 </a>
 
+<p>📫 How to reach me:</p>
+<span>
+ Linkedin
+ Instagram
+ Twitter
+</span>
 
-
-
-<p>So far, we had</p>
+<p>So far, we had:</p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=parvic.parvic)
 
