@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Víctor Parente. I'm constantly studying to become a better developer everyday.
+:books: I'm a Computter Engineering student.
+
+
+Here you'll find some of the technologies below:
+
+
+:chart_with_upwards_trend: My GitHub stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parvic&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvic&layout=compact&theme=tokyonight)
+
+
+
+
+
+<p>So far, we had</p>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=parvic.parvic)
+
 
 <!--
 **parvic/parvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
