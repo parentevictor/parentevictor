@@ -7,20 +7,20 @@
 ## :rocket: Currently, I'm trying to master the technologies below:
 
 <span>
- <img height="64px" src="./icons/javascript.svg" alt="JavaScript"/>
- <img height="64px" src="./icons/typescript.svg" alt="TypeScript"/>
- <img height="64px" src="./icons/nodejs.svg" alt="Node"/>
- <img height="64px" src="./icons/html.svg" alt="HTML"/>
- <img height="64px" src="./icons/css3.svg" alt="CSS"/>
- <img height="64px" src="./icons/react.svg" alt="React"/>
- <img height="64px" src="./icons/nextjs.svg" alt="NextJS"/>
- <img height="64px" src="./icons/graphql.svg" alt="GraphQL"/>
+ <img height="32px" src="./icons/javascript.svg" alt="JavaScript"/>
+ <img height="32px" src="./icons/typescript.svg" alt="TypeScript"/>
+ <img height="32px" src="./icons/nodejs.svg" alt="Node"/>
+ <img height="32px" src="./icons/html.svg" alt="HTML"/>
+ <img height="32px" src="./icons/css3.svg" alt="CSS"/>
+ <img height="32px" src="./icons/react.svg" alt="React"/>
+ <img height="32px" src="./icons/nextjs.svg" alt="NextJS"/>
+ <img height="32px" src="./icons/graphql.svg" alt="GraphQL"/>
 </span>
 
 
 ## 🌱 I’m starting to learn learning
 <span>
-  <img height="64px" src="./icons/kotlin.svg" alt="Kotlin"/>    
+  <img height="32px" src="./icons/kotlin.svg" alt="Kotlin"/>    
 </span>
 
 
