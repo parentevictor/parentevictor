@@ -40,7 +40,7 @@
 <span>
  <a href="https://www.linkedin.com/in/victorprnt/" >Linkedin</a>
  <a href="https://github.com/parvic" >GitHub</a>
- <a href"https://www.instagram.com/victorbruno/" >Instagram</a>
+ <a href="https://www.instagram.com/victorbruno/" >Instagram</a>
 </span>
 
 ## So far, we had:
