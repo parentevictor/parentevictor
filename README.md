@@ -7,20 +7,20 @@
 ## :rocket: Currently, I'm trying to master the technologies below:
 
 <span>
- <img height="32px" src="./icons/javascript.svg" alt="JavaScript" title"JavaScript"/>
- <img height="32px" src="./icons/typescript.svg" alt="TypeScript" titleTypeScript""/>
- <img height="32px" src="./icons/html.svg" alt="HTML" title"HTML"/>
- <img height="32px" src="./icons/css3.svg" alt="CSS" title"CSS"/>
- <img height="32px" src="./icons/react.svg" alt="React" title"React"/>
- <img height="32px" src="./icons/nextjs.svg" alt="NextJS" title"NextJS"/>
+ <img height="32px" src="./icons/javascript.svg" alt="JavaScript" title="JavaScript"/>
+ <img height="32px" src="./icons/typescript.svg" alt="TypeScript" title="TypeScript"/>
+ <img height="32px" src="./icons/html.svg" alt="HTML" title="HTML"/>
+ <img height="32px" src="./icons/css3.svg" alt="CSS" title="CSS"/>
+ <img height="32px" src="./icons/react.svg" alt="React" title="React"/>
+ <img height="32px" src="./icons/nextjs.svg" alt="NextJS" title="NextJS"/>
  <!--<img height="32px" src="./icons/graphql.svg" alt="GraphQL"/>-->
 </span>
 
 
 ## 🌱 I’m starting to learn learning
 <span>
-  <img height="32px" src="./icons/react-native.svg" alt="React Native" title"React Native"/>
- <img height="32px" src="./icons/nodejs.svg" alt="Node" title"Node"/>
+  <img height="32px" src="./icons/react-native.svg" alt="React Native" title="React Native"/>
+ <img height="32px" src="./icons/nodejs.svg" alt="Node" title="Node"/>
 </span>
 
 
@@ -38,9 +38,17 @@
 
 ## 📫 How to reach me:
 <span>
- <a href="https://www.linkedin.com/in/victorprnt/" >Linkedin</a>
- <a href="https://github.com/parvic" >GitHub</a>
- <a href="https://www.instagram.com/victorbruno/" >Instagram</a>
+ <a href="https://www.linkedin.com/in/victorprnt/" >
+  <img height="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" title="LinkedIn"/>
+ </a>
+ 
+ <a href="mailto: victorprnt@gmail.com" >
+  <img height="32px" src="https://img.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" title="Gmail"/>
+ </a>
+ 
+  <a href="https://www.instagram.com/victorbruno/" >
+   <img height="32px" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="Instagram" title="Instagram"/>
+  </a>
 </span>
 
 ## So far, we had:
