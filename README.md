@@ -7,20 +7,20 @@
 ## :rocket: Currently, I'm trying to master the technologies below:
 
 <span>
- <img height="32px" src="./icons/javascript.svg" alt="JavaScript"/>
- <img height="32px" src="./icons/typescript.svg" alt="TypeScript"/>
- <img height="32px" src="./icons/nodejs.svg" alt="Node"/>
- <img height="32px" src="./icons/html.svg" alt="HTML"/>
- <img height="32px" src="./icons/css3.svg" alt="CSS"/>
- <img height="32px" src="./icons/react.svg" alt="React"/>
- <img height="32px" src="./icons/nextjs.svg" alt="NextJS"/>
+ <img height="32px" src="./icons/javascript.svg" alt="JavaScript" title"JavaScript"/>
+ <img height="32px" src="./icons/typescript.svg" alt="TypeScript" titleTypeScript""/>
+ <img height="32px" src="./icons/html.svg" alt="HTML" title"HTML"/>
+ <img height="32px" src="./icons/css3.svg" alt="CSS" title"CSS"/>
+ <img height="32px" src="./icons/react.svg" alt="React" title"React"/>
+ <img height="32px" src="./icons/nextjs.svg" alt="NextJS" title"NextJS"/>
  <!--<img height="32px" src="./icons/graphql.svg" alt="GraphQL"/>-->
 </span>
 
 
 ## 🌱 I’m starting to learn learning
 <span>
-  <img height="32px" src="./icons/react-native.svg" alt="Kotlin"/>    
+  <img height="32px" src="./icons/react-native.svg" alt="React Native" title"React Native"/>
+ <img height="32px" src="./icons/nodejs.svg" alt="Node" title"Node"/>
 </span>
 
 
