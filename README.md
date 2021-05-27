@@ -14,13 +14,13 @@
  <img height="32px" src="./icons/css3.svg" alt="CSS"/>
  <img height="32px" src="./icons/react.svg" alt="React"/>
  <img height="32px" src="./icons/nextjs.svg" alt="NextJS"/>
- <img height="32px" src="./icons/graphql.svg" alt="GraphQL"/>
+ <!--<img height="32px" src="./icons/graphql.svg" alt="GraphQL"/>-->
 </span>
 
 
 ## 🌱 I’m starting to learn learning
 <span>
-  <img height="32px" src="./icons/kotlin.svg" alt="Kotlin"/>    
+  <img height="32px" src="./icons/react-native.svg" alt="Kotlin"/>    
 </span>
 
 
