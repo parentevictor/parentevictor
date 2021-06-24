@@ -30,9 +30,9 @@
 
 
 ## :chart_with_upwards_trend: My GitHub stats:
-<a href="https://github.com/parvic">
- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=parvic&show_icons=true&include_all_commits=true&theme=tokyonight" />
- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvic&layout=compact&theme=tokyonight" />
+<a href="https://github.com/victorprnt">
+ <img height="150px" src="https://github-readme-stats.vercel.app/api?username=victorprnt&show_icons=true&include_all_commits=true&theme=tokyonight" />
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorprnt&layout=compact&theme=tokyonight" />
 </a>
 
 
@@ -53,7 +53,7 @@
 
 ## So far, we had:
 
-![](https://visitor-badge.laobi.icu/badge?page_id=parvic.parvic)
+![](https://visitor-badge.laobi.icu/badge?page_id=victorprnt.victorprnt)
 
 
 <!--
