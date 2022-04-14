@@ -38,16 +38,16 @@
 
 ## 📫 How to reach me:
 <span>
- <a href="https://www.linkedin.com/in/victorprnt/" style="text-decoration:none;">
-  <img height="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" title="LinkedIn"/>
+ <a href="https://www.linkedin.com/in/victorprnt/" style="text-decoration: none;">
+  <img height="32px" src="./icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" style="margin-left: 4px;"/>
  </a>
  
- <a href="mailto: victorprnt@gmail.com" style="text-decoration:none;">
-  <img height="32px" src="https://img.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" title="Gmail"/>
+ <a href="mailto: victorprnt@gmail.com" style="text-decoration: none;">
+  <img height="32px" src="./icons/gmail.svg" alt="Gmail" title="Gmail" style="margin-left: 4px;"/>
  </a>
  
-  <a href="https://www.instagram.com/victorbruno/" style="text-decoration:none;">
-   <img height="32px" src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="Instagram" title="Instagram"/>
+  <a href="https://www.instagram.com/victorbruno/" style="text-decoration: none;">
+   <img height="32px" src="./icons/instagram.svg" alt="Instagram" title="Instagram" style="margin-left: 4px;" />
   </a>
 </span>
 
